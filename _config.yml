@@ -1,6 +1,3 @@
-name: Ananth Bhs, Carator
+name: Carator
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: minima
-plugins:
-  - jekyll-feed
