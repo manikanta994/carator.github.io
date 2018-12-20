@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome Post"
+title: "First Post"
 date: 2018-12-20
 ---
 
